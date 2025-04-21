@@ -134,6 +134,11 @@ SkillPlay is a comprehensive real-money skill-based gaming platform designed spe
 4. Run the development server with `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Live Preview / Documentation
+
+👉 Visit the full requirements and preview:  
+[https://v0-gambling-app-requirements-27ch1olz2.vercel.app/](https://v0-gambling-app-requirements-27ch1olz2.vercel.app/)
+
 ## License
 
 This project is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
