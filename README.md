@@ -136,8 +136,11 @@ SkillPlay is a comprehensive real-money skill-based gaming platform designed spe
 
 ## Live Preview / Documentation
 
-👉 Visit the full requirements and preview:  
-[https://v0-gambling-app-requirements-27ch1olz2.vercel.app/]([https://v0-gambling-app-requirements-27ch1olz2.vercel.app/)
+## 🔗 Live Demo
+
+You can view the project live at:  
+👉 [https://moneydouble.vercel.app](https://moneydouble.vercel.app)
+
 
 ## License
 
